@@ -1,0 +1,1 @@
+A chat application where you can register and  group chat with friends
